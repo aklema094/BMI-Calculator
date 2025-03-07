@@ -12,7 +12,7 @@ A simple and user-friendly **Body Mass Index (BMI) Calculator** built using HTML
 HTML, CSS, JavaScript
 
 ## 📷 Screenshots  
-![BMI Calculator Screenshot](https://drive.google.com/file/d/1cCLobnDpo7bxhtUjQ5zJuTmtH8nIN2SV/view?usp=drive_link)
+![BMI Calculator Screenshot](bmi.jpg)
 
 ## 📌 How to Use  
 1. Enter your weight and height.  
