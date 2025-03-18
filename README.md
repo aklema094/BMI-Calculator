@@ -17,7 +17,15 @@ HTML, CSS, JavaScript
 ## 📌 How to Use  
 1. Enter your weight and height.  
 2. Click on the "Calculate" button.  
-3. View your BMI value and health category.  
+3. View your BMI value and health category.
+
+## 📥 Download & Installation  
+
+Clone the repository using Git:  
+```bash
+git clone https://github.com/aklema094/BMI-Calculator.git
+```  
+Or download the ZIP file manually from [here](https://github.com/aklema094/BMI-Calculator/archive/refs/heads/main.zip).  
 
 ## 🎯 Future Enhancements  
 - 📊 Add BMI chart visualization  
